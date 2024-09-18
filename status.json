@@ -4,5 +4,17 @@
     "Status": 201,
     "Status Text": "Created",
     "Headers date": "Wed, 18 Sep 2024 09:18:41 GMT"
+  },
+    {
+    "Carrier": "DHL",
+    "Status": 201,
+    "Status Text": "Created",
+    "Headers date": "Wed, 18 Sep 2024 09:18:41 GMT"
+  },
+    {
+    "Carrier": "DPD",
+    "Status": 201,
+    "Status Text": "Created",
+    "Headers date": "Wed, 18 Sep 2024 09:18:41 GMT"
   }
 ]
