@@ -16,5 +16,11 @@
     "Status": 201,
     "Status Text": "Created",
     "Headers date": "Wed, 18 Sep 2024 09:18:41 GMT"
+  }, {
+    "Carrier": "MOLDOVEIPOST",
+    "Status": 400,
+    "Status Text": "Bad Request",
+    "Headers date": "Wed, 18 Sep 2024 11:29:44 GMT",
+    "Error message": "Invalid API response"
   }
 ]
