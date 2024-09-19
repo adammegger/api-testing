@@ -6,9 +6,9 @@
     "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 19 Sep 2024 07:07:48 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100561/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240919-AT71%22%7D&page=1&perPage=10"
+    "Headers date": "Thu, 19 Sep 2024 07:24:45 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100577/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240919-ET95%22%7D&page=1&perPage=10"
   },
   {
     "Carrier": "ITELLA",
@@ -17,9 +17,9 @@
     "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 19 Sep 2024 07:08:12 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100563/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240919-AT71%22%7D&page=1&perPage=10"
+    "Headers date": "Thu, 19 Sep 2024 07:25:09 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100579/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240919-AT46%22%7D&page=1&perPage=10"
   },
   {
     "Carrier": "MOLDOVEIPOST",
@@ -28,9 +28,10 @@
     "Country": "MD",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 19 Sep 2024 07:09:08 GMT",
+    "Headers date": "Thu, 19 Sep 2024 07:25:58 GMT",
     "Error message": "Invalid API response",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show"
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-HD-NOCOD-20240919-ET55%22%7D&page=1&perPage=10"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -39,7 +40,8 @@
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 19 Sep 2024 07:08:47 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100565/show"
+    "Headers date": "Thu, 19 Sep 2024 07:25:37 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100581/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-NOCOD-20240919-AT54%22%7D&page=1&perPage=10"
   }
 ]
