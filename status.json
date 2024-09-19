@@ -7,7 +7,7 @@
     "Status": 201,
     "Status Text": "Created",
     "Headers date": "Thu, 19 Sep 2024 07:07:48 GMT",
-    "URL": "https://mwl-stage.meest.com/admin/#/parcel/100561/show",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100561/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240919-AT71%22%7D&page=1&perPage=10"
   },
   {
@@ -18,7 +18,7 @@
     "Status": 201,
     "Status Text": "Created",
     "Headers date": "Thu, 19 Sep 2024 07:08:12 GMT",
-    "URL": "https://mwl-stage.meest.com/admin/#/parcel/100563/show",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100563/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240919-AT71%22%7D&page=1&perPage=10"
   },
   {
@@ -30,7 +30,7 @@
     "Status Text": "Bad Request",
     "Headers date": "Thu, 19 Sep 2024 07:09:08 GMT",
     "Error message": "Invalid API response",
-    "URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show"
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -40,6 +40,6 @@
     "Status": 201,
     "Status Text": "Created",
     "Headers date": "Thu, 19 Sep 2024 07:08:47 GMT",
-    "URL": "https://mwl-stage.meest.com/admin/#/parcel/100565/show"
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100565/show"
   }
 ]
