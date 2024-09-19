@@ -1,11 +1,13 @@
 [
   {
-    "Carrier": "ASENDIACH",
-    "Country": "CH",
+    "Carrier": "ITELLA",
+    "Delivery type": "PUDO",
+    "COD Option": "NOCOD",
+    "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 19 Sep 2024 05:36:19 GMT",
-    "URL": "https://mwl-stage.meest.com/admin/#/parcel/100546/show"
+    "Headers date": "Thu, 19 Sep 2024 06:52:23 GMT",
+    "URL": "https://mwl-stage.meest.com/admin/#/parcel/100550/show"
   },
   {
     "Carrier": "CCMALTA",
