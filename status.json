@@ -14,7 +14,7 @@
   {
     "Carrier": "ITELLA",
     "Delivery type": "PUDO",
-    "COD Option": "NOCOD",
+    "COD Option": "COD",
     "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
