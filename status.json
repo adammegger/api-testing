@@ -289,17 +289,19 @@
     "Tag": "parcel"
   },
   {
-    "Carrier": "FANCOURIERMD",
-    "Delivery type": "HD",
-    "COD Option": "COD",
-    "Country": "MD",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 19 Sep 2024 11:06:23 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100699/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22FANCOU-HD-COD-20240919-IN38%22%7D&page=1&perPage=10",
-    "Tag": "parcel"
-  },
+  "Carrier": "EXPRESSMAIL",
+  "Delivery type": "PUDO",
+  "COD Option": "COD",
+  "Country": "GE",
+  "Status": 400,
+  "Status Text": "Bad Request",
+  "Headers date": "Fri, 20 Sep 2024 07:32:06 GMT",
+  "Error message": "non-unique parcel number",
+  "Error log message": "EXPRESSMAIL - COD is not supported",
+  "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/100863/show",
+  "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22EXPRES-PUDO-COD-20240920-AT96%22%7D&page=1&perPage=10",
+  "Tag": "parcel"
+},
   {
     "Carrier": "FANCOURIERMD",
     "Delivery type": "HD",
