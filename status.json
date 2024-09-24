@@ -411,6 +411,19 @@
     "updated": "2024-09-24-12:15:59"
   },
   {
+  "Carrier": "ITELLA",
+  "Delivery type": "HD",
+  "COD Option": "NOCOD",
+  "Country": "EE",
+  "Status": 201,
+  "Status Text": "Created",
+  "Headers date": "Tue, 24 Sep 2024 12:01:11 GMT",
+  "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101218/show",
+  "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240924-AB19%22%7D&page=1&perPage=10",
+  "Tag": "return",
+    "updated": "2024-09-24-12:15:59"
+},
+  {
     "Carrier": "ITELLA",
     "Delivery type": "HD",
     "COD Option": "COD",
