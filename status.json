@@ -284,7 +284,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-NOCOD-20240925-AT75%22%7D&page=1&perPage=10",
     "Tag": "return"
-  }
+  },
   {
     "Carrier": "DPDPL",
     "Delivery type": "HD",
