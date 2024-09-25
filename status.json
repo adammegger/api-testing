@@ -277,6 +277,19 @@
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "PL",
+    "Status": 400,
+    "Status Text": "Bad Request",
+    "Headers date": "Wed, 25 Sep 2024 07:06:10 GMT",
+    "Error message": "pl.com.dpd.umlf.exceptions.UMLFException: org.xml.sax.SAXParseException: \nLine Number: 30, Column Number: 34, Error: cvc-datatype-valid.1.2.1: '' is not a valid value for 'decimal'.\nLine Number: 30, Column Number: 34, Error: cvc-type.3.1.3: The value '' of element 'Amount' is not valid.\nLine Number: 31, Column Number: 38, Error: cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration '[PLN, EUR, USD]'. It must be a value from the enumeration.\nLine Number: 31, Column Number: 38, Error: cvc-type.3.1.3: The value '' of element 'Currency' is not valid.",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-NOCOD-20240925-AT75%22%7D&page=1&perPage=10",
+    "Tag": "return"
+  }
+  {
+    "Carrier": "DPDPL",
+    "Delivery type": "HD",
+    "COD Option": "NOCOD",
+    "Country": "PL",
     "Status": 201,
     "Status Text": "Created",
     "Headers date": "Wed, 25 Sep 2024 05:27:17 GMT",
