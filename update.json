@@ -1,7 +1,6 @@
 [
   {
     "Carrier": "ASENDIACH",
-    "Parcel number": "ASENDIACH-HD-NOCOD-20240926-ID33",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "CH",
@@ -11,20 +10,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101527/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RASENDI-HD-COD-20240926-IN44%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ASENDIACH",
+    "Parcel number": "ASENDI-HD-COD-20240926-AB90",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "CH",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:43:31 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101526/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ASENDI-HD-COD-20240926-IN44%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:51:24 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101671/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ASENDI-HD-COD-20240926-AB90%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ASENDIACH",
@@ -37,20 +37,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101525/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RASENDI-HD-NOCOD-20240926-ID39%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ASENDIACH",
+    "Parcel number": "ASENDI-HD-NOCOD-20240926-IN71",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "CH",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:43:04 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101524/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ASENDI-HD-NOCOD-20240926-ID39%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:51:03 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101669/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ASENDI-HD-NOCOD-20240926-IN71%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CCMALTA",
@@ -63,20 +64,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101533/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCCMALT-HD-COD-20240926-UT14%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CCMALTA",
+    "Parcel number": "CCMALT-HD-COD-20240926-ID84",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "MT",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:45:36 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101532/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CCMALT-HD-COD-20240926-UT14%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:53:19 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101677/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CCMALT-HD-COD-20240926-ID84%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CCMALTA",
@@ -89,72 +91,77 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101535/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCCMALT-HD-NOCOD-20240926-EA88%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CCMALTA",
+    "Parcel number": "CCMALT-HD-NOCOD-20240926-AD11",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "MT",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:46:00 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101534/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CCMALT-HD-NOCOD-20240926-EA88%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:53:38 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101679/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CCMALT-HD-NOCOD-20240926-AD11%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CHEETAH",
+    "Parcel number": "CHEETA-HD-COD-20240926-IN78",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "IL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:44:44 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101530/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-HD-COD-20240926-UT84%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:52:32 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101675/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-HD-COD-20240926-IN78%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CHEETAH",
+    "Parcel number": "CHEETA-HD-NOCOD-20240926-ID95",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "IL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:43:56 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101528/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-HD-NOCOD-20240926-UT67%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:51:44 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101673/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-HD-NOCOD-20240926-ID95%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CHEETAH",
+    "Parcel number": "CHEETA-PUDO-COD-20240926-IN43",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "IL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:45:12 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101531/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-PUDO-COD-20240926-UT75%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:52:56 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101676/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-PUDO-COD-20240926-IN43%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CHEETAH",
+    "Parcel number": "CHEETA-PUDO-NOCOD-20240926-UT98",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "IL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:44:20 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101529/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-PUDO-NOCOD-20240926-EX26%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:52:08 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101674/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-PUDO-NOCOD-20240926-UT98%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -167,20 +174,35 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101508/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCROATI-HD-COD-20240926-IN59%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CROATIANPOST",
+    "Parcel number": "CROATI-HD-COD-20240926-IN62",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:37:37 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101507/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-HD-COD-20240926-IN59%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:46:30 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101652/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-HD-COD-20240926-IN62%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
+  },
+  {
+    "Carrier": "CROATIANPOST",
+    "Parcel number": "CROATI-HD-NOCOD-20240926-ID93",
+    "Delivery type": "HD",
+    "COD Option": "NOCOD",
+    "Country": "HR",
+    "Status": 201,
+    "Status Text": "Created",
+    "Headers date": "Thu, 26 Sep 2024 10:45:50 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101648/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-HD-NOCOD-20240926-ID93%22%7D&page=1&perPage=10",
+    "Tag": "create",
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -193,20 +215,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101510/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCROATI-PUDO-COD-20240926-AB16%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CROATIANPOST",
+    "Parcel number": "CROATI-PUDO-COD-20240926-IN71",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:38:04 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101509/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-PUDO-COD-20240926-AB16%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:46:50 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101654/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-PUDO-COD-20240926-IN71%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -219,139 +242,107 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101506/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCROATI-PUDO-NOCOD-20240926-ET82%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "CROATIANPOST",
+    "Parcel number": "CROATI-PUDO-NOCOD-20240926-EA72",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:37:11 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101505/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-PUDO-NOCOD-20240926-ET82%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:46:10 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101650/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-PUDO-NOCOD-20240926-EA72%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DEPO",
+    "Parcel number": "DEPO-HD-NOCOD-20240926-AT32",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "SK",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:23:25 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101462/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DEPO-HD-NOCOD-20240926-ET88%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:34:34 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101605/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DEPO-HD-NOCOD-20240926-AT32%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DEPO",
+    "Parcel number": "DEPO-PUDO-NOCOD-20240926-AD57",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "SK",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:23:49 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101463/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DEPO-PUDO-NOCOD-20240926-AT70%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:34:59 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101606/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DEPO-PUDO-NOCOD-20240926-AD57%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-  "Carrier": "DPDPL",
-  "Parcel number": "DPDPL-HD-NOCOD-20240926-ID50",
-  "Delivery type": "HD",
-  "COD Option": "NOCOD",
-  "Country": "PL",
-  "Status": 201,
-  "Status Text": "Created",
-  "Headers date": "Thu, 26 Sep 2024 09:53:28 GMT",
-  "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101568/show",
-  "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-NOCOD-20240926-ID50%22%7D&page=1&perPage=10",
-  "Tag": "create"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DPDPL",
+    "Parcel number": "RDPDPL-HD-COD-20240926-ET44",
+    "Delivery type": "HD",
+    "COD Option": "COD",
+    "Country": "PL",
+    "Status": 400,
+    "Status Text": "Bad Request",
+    "Headers date": "Thu, 26 Sep 2024 10:43:06 GMT",
+    "Error message": "pl.com.dpd.umlf.exceptions.UMLFException: org.xml.sax.SAXParseException: \nLine Number: 30, Column Number: 34, Error: cvc-datatype-valid.1.2.1: '' is not a valid value for 'decimal'.\nLine Number: 30, Column Number: 34, Error: cvc-type.3.1.3: The value '' of element 'Amount' is not valid.\nLine Number: 31, Column Number: 38, Error: cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration '[PLN, EUR, USD]'. It must be a value from the enumeration.\nLine Number: 31, Column Number: 38, Error: cvc-type.3.1.3: The value '' of element 'Currency' is not valid.",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-HD-COD-20240926-ET44%22%7D&page=1&perPage=10",
+    "Tag": "return",
+    "updated": "2024-09-26-12:57:41"
+  },
+  {
+    "Carrier": "DPDPL",
+    "Parcel number": "DPDPL-HD-COD-20240926-ET44",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "PL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:06:02 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101559/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-COD-20240926-UT12%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:43:05 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101638/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-COD-20240926-ET44%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DPDPL",
-    "Delivery type": "HD",
-    "COD Option": "COD",
-    "Country": "PL",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:33:17 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101494/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-COD-20240926-AD29%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-  "Carrier": "DPDPL",
-  "Parcel number": "RDPDPL-HD-NOCOD-20240926-ID50",
-  "Delivery type": "HD",
-  "COD Option": "NOCOD",
-  "Country": "PL",
-  "Status": 400,
-  "Status Text": "Bad Request",
-  "Headers date": "Thu, 26 Sep 2024 09:53:40 GMT",
-  "Error message": "pl.com.dpd.umlf.exceptions.UMLFException: org.xml.sax.SAXParseException: \nLine Number: 30, Column Number: 34, Error: cvc-datatype-valid.1.2.1: '' is not a valid value for 'decimal'.\nLine Number: 30, Column Number: 34, Error: cvc-type.3.1.3: The value '' of element 'Amount' is not valid.\nLine Number: 31, Column Number: 38, Error: cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration '[PLN, EUR, USD]'. It must be a value from the enumeration.\nLine Number: 31, Column Number: 38, Error: cvc-type.3.1.3: The value '' of element 'Currency' is not valid.",
-  "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-  "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-HD-NOCOD-20240926-ID50%22%7D&page=1&perPage=10",
-  "Tag": "return"
-  },
-  {
-    "Carrier": "DPDPL",
+    "Parcel number": "RDPDPL-HD-NOCOD-20240926-AD30",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "PL",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 06:32:16 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:42:26 GMT",
     "Error message": "pl.com.dpd.umlf.exceptions.UMLFException: org.xml.sax.SAXParseException: \nLine Number: 30, Column Number: 34, Error: cvc-datatype-valid.1.2.1: '' is not a valid value for 'decimal'.\nLine Number: 30, Column Number: 34, Error: cvc-type.3.1.3: The value '' of element 'Amount' is not valid.\nLine Number: 31, Column Number: 38, Error: cvc-enumeration-valid: Value '' is not facet-valid with respect to enumeration '[PLN, EUR, USD]'. It must be a value from the enumeration.\nLine Number: 31, Column Number: 38, Error: cvc-type.3.1.3: The value '' of element 'Currency' is not valid.",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-HD-NOCOD-20240926-AB20%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-HD-NOCOD-20240926-AD30%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DPDPL",
+    "Parcel number": "DPDPL-HD-NOCOD-20240926-AD30",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "PL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:05:24 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101555/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-NOCOD-20240926-ET41%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:42:25 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101634/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-NOCOD-20240926-AD30%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "DPDPL",
-    "Delivery type": "HD",
-    "COD Option": "NOCOD",
-    "Country": "PL",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 06:32:14 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101541/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-NOCOD-20240926-AB20%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DPDPL",
@@ -364,33 +355,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101497/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-PUDO-COD-20240926-EA44%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DPDPL",
+    "Parcel number": "DPDPL-PUDO-COD-20240926-ID79",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "PL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:06:21 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101561/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-COD-20240926-AT26%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:43:24 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101640/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-COD-20240926-ID79%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "DPDPL",
-    "Delivery type": "PUDO",
-    "COD Option": "COD",
-    "Country": "PL",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:33:36 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101496/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-COD-20240926-EA44%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DPDPL",
@@ -403,111 +382,105 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101493/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-PUDO-NOCOD-20240926-ID87%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "DPDPL",
+    "Parcel number": "DPDPL-PUDO-NOCOD-20240926-IN11",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "PL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:05:43 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101557/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-NOCOD-20240926-IN36%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:42:44 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101636/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-NOCOD-20240926-IN11%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "DPDPL",
-    "Delivery type": "PUDO",
-    "COD Option": "NOCOD",
-    "Country": "PL",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:32:30 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101492/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-NOCOD-20240926-ID87%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ECONT",
+    "Parcel number": "ECONT-HD-COD-20240926-ID26",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:26:47 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101472/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-HD-COD-20240926-UT43%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:37:49 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101615/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-HD-COD-20240926-ID26%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ECONT",
+    "Parcel number": "ECONT-HD-NOCOD-20240926-IN53",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:25:59 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101470/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-HD-NOCOD-20240926-IN89%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:37:00 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101613/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-HD-NOCOD-20240926-IN53%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ECONT",
+    "Parcel number": "ECONT-PUDO-COD-20240926-AB69",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:27:12 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101473/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-PUDO-COD-20240926-AB91%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:38:13 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101616/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-PUDO-COD-20240926-AB69%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ECONT",
+    "Parcel number": "ECONT-PUDO-NOCOD-20240926-UT56",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:26:23 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101471/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-PUDO-NOCOD-20240926-EX14%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:37:24 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101614/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-PUDO-NOCOD-20240926-UT56%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "EXPRESSMAIL",
+    "Parcel number": "EXPRES-HD-NOCOD-20240926-AT93",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "GE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:40:18 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101519/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22EXPRES-HD-NOCOD-20240926-IN59%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:48:32 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101664/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22EXPRES-HD-NOCOD-20240926-AT93%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "FANCOURIERMD",
+    "Parcel number": "FANCOU-HD-NOCOD-20240926-IN75",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "MD",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:46:45 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101536/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22FANCOU-HD-NOCOD-20240926-AT63%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:54:18 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101681/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22FANCOU-HD-NOCOD-20240926-IN75%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "HELTHJEM",
@@ -521,73 +494,52 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RHELTHJ-HD-NOCOD-20240926-ID82%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "HELTHJEM",
+    "Parcel number": "HELTHJ-HD-NOCOD-20240926-EA84",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "NO",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:05:04 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101553/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-HD-NOCOD-20240926-ID82%22%7D&page=1&perPage=10",
+    "Status": 400,
+    "Status Text": "Bad Request",
+    "Headers date": "Thu, 26 Sep 2024 10:34:01 GMT",
+    "Error message": "incorrect parcel data",
+    "Error log message": "no.carrier.support",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-HD-NOCOD-20240926-EA84%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "HELTHJEM",
-    "Delivery type": "HD",
-    "COD Option": "NOCOD",
-    "Country": "NO",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:23:06 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101460/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-HD-NOCOD-20240926-AD45%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "HELTHJEM",
+    "Parcel number": "RHELTHJ-PUDO-NOCOD-20240926-UT85",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "NO",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 07:04:47 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:33:44 GMT",
     "Error message": "party.zipCode.invalid.for.country",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RHELTHJ-PUDO-NOCOD-20240926-EA31%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RHELTHJ-PUDO-NOCOD-20240926-UT85%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "HELTHJEM",
+    "Parcel number": "HELTHJ-PUDO-NOCOD-20240926-UT85",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "NO",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:04:46 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101551/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-PUDO-NOCOD-20240926-EA31%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:33:43 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101602/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-PUDO-NOCOD-20240926-UT85%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "HELTHJEM",
-    "Delivery type": "PUDO",
-    "COD Option": "NOCOD",
-    "Country": "NO",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:22:47 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101458/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-PUDO-NOCOD-20240926-AD59%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -600,20 +552,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101431/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-COD-20240926-AT82%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-HD-COD-20240926-AD65",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:16:53 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101430/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20240926-AT82%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:28:30 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101574/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20240926-AD65%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -626,20 +579,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101427/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20240926-EX75%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-HD-NOCOD-20240926-ET74",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:15:53 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101426/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240926-EX75%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:27:49 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101570/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240926-ET74%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -652,20 +606,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101433/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-COD-20240926-AT41%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-PUDO-COD-20240926-EX28",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:17:19 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101432/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20240926-AT41%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:28:50 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101576/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20240926-EX28%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -678,20 +633,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101429/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-NOCOD-20240926-AT66%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-PUDO-NOCOD-20240926-EX58",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "EE",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:16:18 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101428/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240926-AT66%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:28:09 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101572/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240926-EX58%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -704,20 +660,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101439/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-COD-20240926-ID48%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-HD-COD-20240926-UT86",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "LT",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:18:33 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101438/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20240926-ID48%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:29:55 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101582/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20240926-UT86%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -730,20 +687,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101435/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20240926-AD29%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-HD-NOCOD-20240926-ID76",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "LT",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:17:43 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101434/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240926-AD29%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:29:11 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101578/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240926-ID76%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -756,20 +714,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101441/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-COD-20240926-ID63%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-PUDO-COD-20240926-IN57",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "LT",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:18:57 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101440/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20240926-ID63%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:30:15 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101584/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20240926-IN57%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -782,20 +741,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101437/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-NOCOD-20240926-ID97%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-PUDO-NOCOD-20240926-AT53",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "LT",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:18:08 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101436/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240926-ID97%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:29:33 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101580/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240926-AT53%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -808,20 +768,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101447/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-COD-20240926-EX65%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-HD-COD-20240926-UT14",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "LV",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:20:12 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101446/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20240926-EX65%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:31:19 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101590/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20240926-UT14%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -834,20 +795,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101443/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20240926-IN68%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-HD-NOCOD-20240926-EA27",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "LV",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:19:22 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101442/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240926-IN68%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:30:36 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101586/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20240926-EA27%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -860,20 +822,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101449/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-COD-20240926-AD74%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-PUDO-COD-20240926-UT29",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "LV",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:20:37 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101448/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20240926-AD74%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:31:40 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101592/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20240926-UT29%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
@@ -886,20 +849,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101445/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-NOCOD-20240926-AD76%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-PUDO-NOCOD-20240926-ET78",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "LV",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:19:47 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101444/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240926-AD76%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:30:58 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101588/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20240926-ET78%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MATKAHUOLTO",
@@ -912,20 +876,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101465/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RMATKAH-HD-NOCOD-20240926-AB45%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MATKAHUOLTO",
+    "Parcel number": "MATKAH-HD-NOCOD-20240926-UT99",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "FI",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:24:14 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101464/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MATKAH-HD-NOCOD-20240926-AB45%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:35:25 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101607/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MATKAH-HD-NOCOD-20240926-UT99%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MATKAHUOLTO",
@@ -938,251 +903,229 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101467/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RMATKAH-PUDO-NOCOD-20240926-EX66%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MATKAHUOLTO",
+    "Parcel number": "MATKAH-PUDO-NOCOD-20240926-ID16",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "FI",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:24:43 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101466/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MATKAH-PUDO-NOCOD-20240926-EX66%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:35:46 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101609/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MATKAH-PUDO-NOCOD-20240926-ID16%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MILSPED",
+    "Parcel number": "MILSPE-HD-COD-20240926-EA29",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "RS",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:25:34 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101469/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MILSPE-HD-COD-20240926-EX11%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:36:34 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101612/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MILSPE-HD-COD-20240926-EA29%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MILSPED",
+    "Parcel number": "MILSPE-HD-NOCOD-20240926-AD28",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "RS",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:25:11 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101468/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MILSPE-HD-NOCOD-20240926-ET56%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:36:10 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101611/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MILSPE-HD-NOCOD-20240926-AD28%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MOLDOVEIPOST",
+    "Parcel number": "MOLDOV-HD-COD-20240926-EX34",
+    "Delivery type": "HD",
+    "COD Option": "COD",
+    "Country": "MD",
+    "Status": 400,
+    "Status Text": "Bad Request",
+    "Headers date": "Thu, 26 Sep 2024 10:49:57 GMT",
+    "Error message": "Invalid API response",
+    "Error log message": "Invalid API response",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-HD-COD-20240926-EX34%22%7D&page=1&perPage=10",
+    "Tag": "create",
+    "updated": "2024-09-26-12:57:41"
+  },
+  {
+    "Carrier": "MOLDOVEIPOST",
+    "Parcel number": "MOLDOV-HD-NOCOD-20240926-AT16",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "MD",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 05:40:41 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:48:55 GMT",
     "Error message": "Invalid API response",
     "Error log message": "Invalid API response",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-HD-NOCOD-20240926-AD20%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-HD-NOCOD-20240926-AT16%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MOLDOVEIPOST",
+    "Parcel number": "MOLDOV-PUDO-COD-20240926-ID24",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "MD",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 05:42:30 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:50:29 GMT",
     "Error message": "Invalid API response",
     "Error log message": "Invalid API response",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-PUDO-COD-20240926-ID60%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-PUDO-COD-20240926-ID24%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "MOLDOVEIPOST",
+    "Parcel number": "MOLDOV-PUDO-NOCOD-20240926-UT97",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "MD",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 05:41:12 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:49:26 GMT",
     "Error message": "Invalid API response",
     "Error log message": "Invalid API response",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-PUDO-NOCOD-20240926-AT26%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-PUDO-NOCOD-20240926-UT97%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
+    "Parcel number": "ROVERSE-HD-COD-20240926-AT76",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "HR",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 07:04:05 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:33:01 GMT",
     "Error message": "Incorrect return tracking number",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-HD-COD-20240926-UT40%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-HD-COD-20240926-AT76%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
+    "Parcel number": "OVERSE-HD-COD-20240926-AT76",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:04:00 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101547/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-COD-20240926-UT40%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:32:56 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101598/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-COD-20240926-AT76%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
-    "Delivery type": "HD",
-    "COD Option": "COD",
-    "Country": "HR",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:21:59 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101454/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-COD-20240926-EA62%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "OVERSEASHR",
+    "Parcel number": "ROVERSE-HD-NOCOD-20240926-EX33",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "HR",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 07:03:11 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:32:09 GMT",
     "Error message": "Incorrect return tracking number",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-HD-NOCOD-20240926-EX76%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-HD-NOCOD-20240926-EX33%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
+    "Parcel number": "OVERSE-HD-NOCOD-20240926-EX33",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:03:04 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101543/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-NOCOD-20240926-EX76%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:32:04 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101594/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-NOCOD-20240926-EX33%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
-    "Delivery type": "HD",
-    "COD Option": "NOCOD",
-    "Country": "HR",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:21:07 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101450/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-NOCOD-20240926-ID66%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "OVERSEASHR",
+    "Parcel number": "ROVERSE-PUDO-COD-20240926-AB58",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "HR",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 07:04:29 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:33:25 GMT",
     "Error message": "Incorrect return tracking number",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-PUDO-COD-20240926-UT30%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-PUDO-COD-20240926-AB58%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
+    "Parcel number": "OVERSE-PUDO-COD-20240926-AB58",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:04:24 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101549/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-COD-20240926-UT30%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:33:20 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101600/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-COD-20240926-AB58%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
-    "Delivery type": "PUDO",
-    "COD Option": "COD",
-    "Country": "HR",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:22:24 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101456/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-COD-20240926-ID72%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "OVERSEASHR",
+    "Parcel number": "ROVERSE-PUDO-NOCOD-20240926-AD55",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "HR",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 07:03:36 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:32:35 GMT",
     "Error message": "Incorrect return tracking number",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-PUDO-NOCOD-20240926-ET58%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-PUDO-NOCOD-20240926-AD55%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "OVERSEASHR",
+    "Parcel number": "OVERSE-PUDO-NOCOD-20240926-AD55",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "HR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 07:03:30 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101545/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-NOCOD-20240926-ET58%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:32:30 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101596/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-NOCOD-20240926-AD55%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
-  },
-  {
-    "Carrier": "OVERSEASHR",
-    "Delivery type": "PUDO",
-    "COD Option": "NOCOD",
-    "Country": "HR",
-    "Status": 201,
-    "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:21:34 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101452/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-NOCOD-20240926-ET69%22%7D&page=1&perPage=10",
-    "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1195,20 +1138,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101516/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-HD-COD-20240926-AB45%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
+    "Parcel number": "ROMANI-HD-COD-20240926-IN44",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "RO",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:39:25 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101515/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-HD-COD-20240926-AB45%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:47:51 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101660/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-HD-COD-20240926-IN44%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1221,20 +1165,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101512/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-HD-NOCOD-20240926-EA16%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
+    "Parcel number": "ROMANI-HD-NOCOD-20240926-ET40",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "RO",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:38:31 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101511/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-HD-NOCOD-20240926-EA16%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:47:10 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101656/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-HD-NOCOD-20240926-ET40%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1247,20 +1192,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101518/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-PUDO-COD-20240926-AD21%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
+    "Parcel number": "ROMANI-PUDO-COD-20240926-EX49",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "RO",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:39:52 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101517/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-PUDO-COD-20240926-AD21%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:48:12 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101662/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-PUDO-COD-20240926-EX49%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1273,20 +1219,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101514/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-PUDO-NOCOD-20240926-ID15%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "ROMANIAPOST",
+    "Parcel number": "ROMANI-PUDO-NOCOD-20240926-ID51",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "RO",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:38:58 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101513/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-PUDO-NOCOD-20240926-ID15%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:47:31 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101658/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-PUDO-NOCOD-20240926-ID51%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "RUCH",
@@ -1299,20 +1246,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101489/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RRUCH-PUDO-COD-20240926-ET18%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "RUCH",
+    "Parcel number": "RUCH-PUDO-COD-20240926-AT86",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "PL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:31:37 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101488/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RUCH-PUDO-COD-20240926-ET18%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:42:04 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101632/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RUCH-PUDO-COD-20240926-AT86%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "RUCH",
@@ -1325,128 +1273,167 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101487/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RRUCH-PUDO-NOCOD-20240926-AD86%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "RUCH",
+    "Parcel number": "RUCH-PUDO-NOCOD-20240926-EA83",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "PL",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:31:01 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101486/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RUCH-PUDO-NOCOD-20240926-AD86%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:41:43 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101630/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RUCH-PUDO-NOCOD-20240926-EA83%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SLOVENIJAPOST",
+    "Parcel number": "SLOVEN-HD-COD-20240926-ET69",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "SI",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 05:35:17 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:44:39 GMT",
     "Error message": "incorrect parcel data",
     "Error log message": "Account nos. not defined for ODKBN service | ",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-HD-COD-20240926-AB96%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-HD-COD-20240926-ET69%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SLOVENIJAPOST",
+    "Parcel number": "RSLOVEN-HD-NOCOD-20240926-AB32",
+    "Delivery type": "HD",
+    "COD Option": "NOCOD",
+    "Country": "SI",
+    "Status": 400,
+    "Status Text": "Bad Request",
+    "Headers date": "Thu, 26 Sep 2024 10:43:52 GMT",
+    "Error message": "602 Contract is not valid",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSLOVEN-HD-NOCOD-20240926-AB32%22%7D&page=1&perPage=10",
+    "Tag": "return",
+    "updated": "2024-09-26-12:57:41"
+  },
+  {
+    "Carrier": "SLOVENIJAPOST",
+    "Parcel number": "SLOVEN-HD-NOCOD-20240926-AB32",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "SI",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:34:26 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101498/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-HD-NOCOD-20240926-EX86%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:43:50 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101642/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-HD-NOCOD-20240926-AB32%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SLOVENIJAPOST",
+    "Parcel number": "SLOVEN-PUDO-COD-20240926-EA42",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "SI",
     "Status": 400,
     "Status Text": "Bad Request",
-    "Headers date": "Thu, 26 Sep 2024 05:35:53 GMT",
+    "Headers date": "Thu, 26 Sep 2024 10:45:17 GMT",
     "Error message": "incorrect parcel data",
     "Error log message": "Account nos. not defined for ODKBN service | ",
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-PUDO-COD-20240926-AT14%22%7D&page=1&perPage=10",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-PUDO-COD-20240926-EA42%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SLOVENIJAPOST",
+    "Parcel number": "RSLOVEN-PUDO-NOCOD-20240926-AT85",
+    "Delivery type": "PUDO",
+    "COD Option": "NOCOD",
+    "Country": "SI",
+    "Status": 400,
+    "Status Text": "Bad Request",
+    "Headers date": "Thu, 26 Sep 2024 10:44:17 GMT",
+    "Error message": "602 Contract is not valid",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSLOVEN-PUDO-NOCOD-20240926-AT85%22%7D&page=1&perPage=10",
+    "Tag": "return",
+    "updated": "2024-09-26-12:57:41"
+  },
+  {
+    "Carrier": "SLOVENIJAPOST",
+    "Parcel number": "SLOVEN-PUDO-NOCOD-20240926-AT85",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "SI",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:34:53 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101500/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-PUDO-NOCOD-20240926-UT61%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:44:16 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101644/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-PUDO-NOCOD-20240926-AT85%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPEEDEX",
+    "Parcel number": "SPEEDE-HD-COD-20240926-AB18",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:28:25 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101476/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-HD-COD-20240926-AT27%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:39:31 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101620/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-HD-COD-20240926-AB18%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPEEDEX",
+    "Parcel number": "SPEEDE-HD-NOCOD-20240926-ID97",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:27:37 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101474/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-HD-NOCOD-20240926-IN96%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:38:37 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101618/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-HD-NOCOD-20240926-ID97%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPEEDEX",
+    "Parcel number": "SPEEDE-PUDO-COD-20240926-UT59",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:28:48 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101477/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-PUDO-COD-20240926-AD89%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:40:00 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101621/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-PUDO-COD-20240926-UT59%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPEEDEX",
+    "Parcel number": "SPEEDE-PUDO-NOCOD-20240926-UT97",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "GR",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:28:01 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101475/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-PUDO-NOCOD-20240926-AB28%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:39:01 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101619/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-PUDO-NOCOD-20240926-UT97%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
@@ -1459,20 +1446,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101483/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-HD-COD-20240926-ID46%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
+    "Parcel number": "SPRINT-HD-COD-20240926-IN19",
     "Delivery type": "HD",
     "COD Option": "COD",
     "Country": "HU",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:30:03 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101482/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-HD-COD-20240926-ID46%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:41:03 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101626/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-HD-COD-20240926-IN19%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
@@ -1485,20 +1473,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101479/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-HD-NOCOD-20240926-ID61%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
+    "Parcel number": "SPRINT-HD-NOCOD-20240926-AD51",
     "Delivery type": "HD",
     "COD Option": "NOCOD",
     "Country": "HU",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:29:12 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101478/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-HD-NOCOD-20240926-ID61%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:40:25 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101622/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-HD-NOCOD-20240926-AD51%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
@@ -1511,20 +1500,21 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101485/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-PUDO-COD-20240926-ID64%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
+    "Parcel number": "SPRINT-PUDO-COD-20240926-IN22",
     "Delivery type": "PUDO",
     "COD Option": "COD",
     "Country": "HU",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:30:29 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101484/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-PUDO-COD-20240926-ID64%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:41:23 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101628/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-PUDO-COD-20240926-IN22%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
@@ -1537,19 +1527,20 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101481/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-PUDO-NOCOD-20240926-EA90%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   },
   {
     "Carrier": "SPRINTER",
+    "Parcel number": "SPRINT-PUDO-NOCOD-20240926-AB97",
     "Delivery type": "PUDO",
     "COD Option": "NOCOD",
     "Country": "HU",
     "Status": 201,
     "Status Text": "Created",
-    "Headers date": "Thu, 26 Sep 2024 05:29:38 GMT",
-    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101480/show",
-    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-PUDO-NOCOD-20240926-EA90%22%7D&page=1&perPage=10",
+    "Headers date": "Thu, 26 Sep 2024 10:40:44 GMT",
+    "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/101624/show",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-PUDO-NOCOD-20240926-AB97%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-09-26-09:07:53"
+    "updated": "2024-09-26-12:57:41"
   }
 ]
