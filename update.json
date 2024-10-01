@@ -13,7 +13,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ASENDI-HD-COD-20241001-EA95%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ASENDIACH",
@@ -29,7 +29,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ASENDI-HD-NOCOD-20241001-AT55%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CCMALTA",
@@ -43,7 +43,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102190/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCCMALT-HD-COD-20241001-IN87%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CCMALTA",
@@ -57,7 +57,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102189/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CCMALT-HD-COD-20241001-IN87%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CCMALTA",
@@ -71,7 +71,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102192/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCCMALT-HD-NOCOD-20241001-IN64%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CCMALTA",
@@ -85,7 +85,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102191/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CCMALT-HD-NOCOD-20241001-IN64%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CHEETAH",
@@ -99,7 +99,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102187/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-HD-COD-20241001-ID56%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CHEETAH",
@@ -113,7 +113,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102185/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-HD-NOCOD-20241001-AD76%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CHEETAH",
@@ -127,7 +127,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102188/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-PUDO-COD-20241001-UT98%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CHEETAH",
@@ -141,7 +141,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102186/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CHEETA-PUDO-NOCOD-20241001-EA54%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -155,7 +155,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102166/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCROATI-HD-COD-20241001-AT68%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -169,7 +169,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102165/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-HD-COD-20241001-AT68%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -183,7 +183,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102168/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCROATI-PUDO-COD-20241001-AB71%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -197,7 +197,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102167/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-PUDO-COD-20241001-AB71%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -211,7 +211,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102164/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RCROATI-PUDO-NOCOD-20241001-EA83%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "CROATIANPOST",
@@ -225,7 +225,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102163/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22CROATI-PUDO-NOCOD-20241001-EA83%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DEPO",
@@ -239,7 +239,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102121/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DEPO-HD-NOCOD-20241001-EX96%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DEPO",
@@ -253,7 +253,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102122/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DEPO-PUDO-NOCOD-20241001-AT86%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -268,7 +268,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-HD-COD-20241001-EA75%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -282,7 +282,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102152/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-COD-20241001-EA75%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -297,7 +297,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-HD-NOCOD-20241001-EX41%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -311,7 +311,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102148/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-HD-NOCOD-20241001-EX41%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -325,7 +325,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102155/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-PUDO-COD-20241001-ID47%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -339,7 +339,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102154/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-COD-20241001-ID47%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -353,7 +353,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102151/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RDPDPL-PUDO-NOCOD-20241001-IN12%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "DPDPL",
@@ -367,7 +367,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102150/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22DPDPL-PUDO-NOCOD-20241001-IN12%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ECONT",
@@ -381,7 +381,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102131/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-HD-COD-20241001-UT40%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ECONT",
@@ -395,7 +395,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102129/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-HD-NOCOD-20241001-EA65%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ECONT",
@@ -409,7 +409,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102130/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ECONT-PUDO-NOCOD-20241001-AD79%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "EXPRESSMAIL",
@@ -423,7 +423,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102177/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22EXPRES-HD-NOCOD-20241001-ID78%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "FANCOURIERMD",
@@ -437,7 +437,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102193/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22FANCOU-HD-COD-20241001-AD97%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "FANCOURIERMD",
@@ -451,7 +451,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102194/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22FANCOU-HD-NOCOD-20241001-EX88%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "HELTHJEM",
@@ -467,7 +467,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-HD-NOCOD-20241001-AB89%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "HELTHJEM",
@@ -481,7 +481,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102119/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RHELTHJ-PUDO-NOCOD-20241001-AD20%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "HELTHJEM",
@@ -495,7 +495,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102118/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22HELTHJ-PUDO-NOCOD-20241001-AD20%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -509,7 +509,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102091/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-COD-20241001-UT77%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -523,7 +523,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102090/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20241001-UT77%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -537,7 +537,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102087/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20241001-AB82%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -551,7 +551,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102086/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20241001-AB82%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -565,7 +565,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102093/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-COD-20241001-IN47%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -579,7 +579,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102092/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20241001-IN47%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -593,7 +593,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102089/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-NOCOD-20241001-EX81%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -607,7 +607,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102088/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20241001-EX81%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -621,7 +621,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102099/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-COD-20241001-IN68%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -635,7 +635,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102098/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20241001-IN68%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -649,7 +649,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102095/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20241001-ID61%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -663,7 +663,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102094/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20241001-ID61%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -677,7 +677,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102101/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-COD-20241001-EX58%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -691,7 +691,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102100/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20241001-EX58%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -705,7 +705,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102097/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-NOCOD-20241001-EX48%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -719,7 +719,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102096/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20241001-EX48%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -733,7 +733,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102107/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-COD-20241001-ET43%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -747,7 +747,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102106/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-COD-20241001-ET43%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -761,7 +761,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102103/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20241001-EA24%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -775,7 +775,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102102/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-HD-NOCOD-20241001-EA24%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -789,7 +789,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102109/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-COD-20241001-ID73%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -803,7 +803,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102108/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-COD-20241001-ID73%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -817,7 +817,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102105/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-PUDO-NOCOD-20241001-AD11%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ITELLA",
@@ -831,7 +831,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102104/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ITELLA-PUDO-NOCOD-20241001-AD11%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MATKAHUOLTO",
@@ -845,7 +845,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102124/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RMATKAH-HD-NOCOD-20241001-AT23%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MATKAHUOLTO",
@@ -859,7 +859,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102123/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MATKAH-HD-NOCOD-20241001-AT23%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MATKAHUOLTO",
@@ -873,7 +873,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102126/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RMATKAH-PUDO-NOCOD-20241001-AT29%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MATKAHUOLTO",
@@ -887,7 +887,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102125/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MATKAH-PUDO-NOCOD-20241001-AT29%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MILSPED",
@@ -901,7 +901,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102128/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MILSPE-HD-COD-20241001-AD68%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MILSPED",
@@ -915,7 +915,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102127/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MILSPE-HD-NOCOD-20241001-EA32%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MOLDOVEIPOST",
@@ -931,7 +931,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-HD-COD-20241001-AB73%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MOLDOVEIPOST",
@@ -947,7 +947,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-HD-NOCOD-20241001-EX16%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MOLDOVEIPOST",
@@ -963,7 +963,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-PUDO-COD-20241001-AT79%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "MOLDOVEIPOST",
@@ -979,7 +979,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22MOLDOV-PUDO-NOCOD-20241001-IN17%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -994,7 +994,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-HD-COD-20241001-AT31%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -1008,7 +1008,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102114/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-COD-20241001-AT31%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -1023,7 +1023,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-HD-NOCOD-20241001-ID35%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -1037,7 +1037,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102110/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-HD-NOCOD-20241001-ID35%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -1052,7 +1052,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-PUDO-COD-20241001-UT25%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -1066,7 +1066,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102116/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-COD-20241001-UT25%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -1081,7 +1081,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROVERSE-PUDO-NOCOD-20241001-EA21%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "OVERSEASHR",
@@ -1095,7 +1095,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102112/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22OVERSE-PUDO-NOCOD-20241001-EA21%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1109,7 +1109,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102174/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-HD-COD-20241001-IN95%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1123,7 +1123,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102173/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-HD-COD-20241001-IN95%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1137,7 +1137,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102170/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-HD-NOCOD-20241001-EX97%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1151,7 +1151,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102169/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-HD-NOCOD-20241001-EX97%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1165,7 +1165,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102176/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-PUDO-COD-20241001-ID13%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1179,7 +1179,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102175/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-PUDO-COD-20241001-ID13%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1193,7 +1193,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102172/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RROMANI-PUDO-NOCOD-20241001-ID23%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "ROMANIAPOST",
@@ -1207,7 +1207,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102171/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22ROMANI-PUDO-NOCOD-20241001-ID23%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "RUCH",
@@ -1221,7 +1221,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102147/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RRUCH-PUDO-COD-20241001-UT22%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "RUCH",
@@ -1235,7 +1235,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102146/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RUCH-PUDO-COD-20241001-UT22%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "RUCH",
@@ -1249,7 +1249,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102145/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RRUCH-PUDO-NOCOD-20241001-EA30%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "RUCH",
@@ -1263,7 +1263,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102144/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RUCH-PUDO-NOCOD-20241001-EA30%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SLOVENIJAPOST",
@@ -1279,7 +1279,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-HD-COD-20241001-EA65%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SLOVENIJAPOST",
@@ -1294,7 +1294,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSLOVEN-HD-NOCOD-20241001-ID88%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SLOVENIJAPOST",
@@ -1308,7 +1308,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102156/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-HD-NOCOD-20241001-ID88%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SLOVENIJAPOST",
@@ -1324,7 +1324,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-PUDO-COD-20241001-EX66%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SLOVENIJAPOST",
@@ -1339,7 +1339,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/null/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSLOVEN-PUDO-NOCOD-20241001-UT45%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SLOVENIJAPOST",
@@ -1353,7 +1353,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102158/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SLOVEN-PUDO-NOCOD-20241001-UT45%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPEEDEX",
@@ -1367,7 +1367,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102134/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-HD-COD-20241001-AD77%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPEEDEX",
@@ -1381,7 +1381,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102132/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-HD-NOCOD-20241001-IN18%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPEEDEX",
@@ -1395,7 +1395,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102135/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-PUDO-COD-20241001-AD33%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPEEDEX",
@@ -1409,7 +1409,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102133/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPEEDE-PUDO-NOCOD-20241001-ID23%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1423,7 +1423,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102141/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-HD-COD-20241001-EX79%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1437,7 +1437,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102140/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-HD-COD-20241001-EX79%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1451,7 +1451,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102137/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-HD-NOCOD-20241001-ET19%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1465,7 +1465,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102136/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-HD-NOCOD-20241001-ET19%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1479,7 +1479,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102143/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-PUDO-COD-20241001-AD50%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1493,7 +1493,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102142/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-PUDO-COD-20241001-AD50%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1507,7 +1507,7 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102139/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-PUDO-NOCOD-20241001-ID64%22%7D&page=1&perPage=10",
     "Tag": "return",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   },
   {
     "Carrier": "SPRINTER",
@@ -1521,6 +1521,6 @@
     "Parcel URL": "https://mwl-stage.meest.com/admin/#/parcel/102138/show",
     "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22SPRINT-PUDO-NOCOD-20241001-ID64%22%7D&page=1&perPage=10",
     "Tag": "create",
-    "updated": "2024-10-01-07:53:27"
+    "updated": "2024-10-01 07:53:27"
   }
 ]
