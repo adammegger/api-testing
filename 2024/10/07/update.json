@@ -1,5 +1,17 @@
 [
   {
+  "Carrier": "ITELLA",
+  "Parcel number": "ITELLA-HD-NOCOD-20241007-UT82",
+  "Delivery type": "HD",
+  "COD Option": "NOCOD",
+  "Country": "EE",
+  "Status": 200,
+  "Status Text": "OK",
+  "Headers date": "Mon, 07 Oct 2024 07:20:57 GMT",
+  "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20241007-UT82%22%7D&page=1&perPage=10",
+  "Tag": "pudo"
+},
+  {
     "Carrier": "ASENDIACH",
     "Parcel number": "RASENDI-HD-COD-20241007-AB13",
     "Delivery type": "HD",
