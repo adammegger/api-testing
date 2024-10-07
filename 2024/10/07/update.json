@@ -1,5 +1,19 @@
 [
   {
+    "Carrier": "ITELLA",
+    "Parcel number": "ITELLA-HD-NOCOD-20241007-EX57",
+    "Delivery type": "HD",
+    "COD Option": "NOCOD",
+    "Country": "EE",
+    "Status": 200,
+    "Status Text": "OK",
+    "Headers date": "Mon, 07 Oct 2024 11:42:24 GMT",
+    "Pudo points": 362,
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RITELLA-HD-NOCOD-20241007-EX57%22%7D&page=1&perPage=10",
+    "Tag": "pudo",
+    "updated": "2024-10-07 13:40:24"
+  },
+  {
     "Carrier": "SPRINTER",
     "Parcel number": "SPRINT-HD-NOCOD-20241007-ID82",
     "Delivery type": "HD",
