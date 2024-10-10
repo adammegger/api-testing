@@ -1,4 +1,17 @@
 [
+    {
+    "Carrier": "SPRINTER",
+    "Parcel number": "SPRINT-PUDO-NOCOD-20241010-AD53",
+    "Delivery type": "PUDO",
+    "COD Option": "NOCOD",
+    "Country": "HU",
+    "Status": 204,
+    "Status Text": "No Content",
+    "Headers date": "Thu, 10 Oct 2024 10:08:37 GMT",
+    "Logs URL": "https://mwl-stage.meest.com/admin/#/logs?displayedFilters=%7B%7D&filter=%7B%22group%22%3Afalse%2C%22key%22%3A%22RSPRINT-PUDO-NOCOD-20241010-AD53%22%7D&page=1&perPage=10",
+    "Tag": "pudo",
+    "updated": "2024-10-10 07:44:35"
+  },
   {
     "Carrier": "ASENDIACH",
     "Parcel number": "RASENDI-HD-COD-20241010-EX88",
